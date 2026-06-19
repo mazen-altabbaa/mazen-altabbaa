@@ -8,28 +8,7 @@
 
 <br/>
 
-## 🗺️ Quest Log — About Me
-
-```
-┌──────────────────────────────────────────┐
-│   CHARACTER SHEET                        │
-├──────────────────────────────────────────┤
-│  Class      : AI/ML Engineer             │
-│  Subclass   : Computer Vision Developer  │
-│  Side Class : Data Scientist             │
-│  Languages  : Python ★★★★★ | R ★★★★      │
-│  Status     : Building neural networks   │
-└──────────────────────────────────────────┘
-```
-
-- 🛡️ Deep diving into **Computer Vision pipelines** and **LLM fine-tuning**
-- 🧪 Currently crafting potions with **RAG systems**, **VectorDBs**, and **LangChain**
-- 🐉 Slaying bugs in **Dockerized** multi-service inference systems
-- 📜 Always collecting new spells (a.k.a. learning new ML techniques)
-
-<br/>
-
-## ⚔️ Inventory — Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,7 +43,7 @@
 
 <br/>
 
-## 📊 Stats — Hero Stats Screen
+## Stats
 
 <div align="center">
 
@@ -77,7 +56,7 @@
 
 <br/>
 
-## 🔥 Activity Graph (Dungeon Map)
+## Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazen-altabbaa&theme=react-dark&bg_color=1B3B2F&color=FFE9A8&line=C9A227&point=FFE9A8&hide_border=true"/>
@@ -85,7 +64,7 @@
 
 <br/>
 
-## 🌐 Connect — Send a Sheikah Slate Message
+## Contact Infos
 
 <div align="center">
 
