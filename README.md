@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B2F,50:2E7D32,100:C9A227&height=220&section=header&text=Mazen Al-Tabbaa&fontSize=60&fontColor=FFE9A8&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B2F,50:2E7D32,100:C9A227&height=220&section=header&text=Mazen%20Al-Tabbaa&fontSize=60&fontColor=FFE9A8&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=700&lines=It%27s+dangerous+to+go+alone...;Take+this%3A+%F0%9F%97%A1%EF%B8%8F+PyTorch+%2B+TensorFlow;Loading+Quest%3A+LLM+Fine-Tuning...;Vector+DB+Triforce+Unlocked" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=700&lines=Loading+Quest%3A+Computer+Vision...;Loading+Quest%3A+LLM+Fine-Tuning...;Vector+DB+Triforce+Unlocked;Press+Start+to+Continue" />
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/mazen-al-tabbaa-1210a6275"><img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=FFE9A8&labelColor=1B3B2F"/></a>
+<a href="https://www.linkedin.com/in/mazen-al-tabbaa-1210a6275"><img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=FFE9A8&labelColor=1B3B2F"/></a>
 <a href="mailto:mazenaltabbaa366@gmail.com"><img src="https://img.shields.io/badge/Email-C9A227?style=for-the-badge&logo=gmail&logoColor=1B3B2F&labelColor=1B3B2F"/></a>
 <a href="https://github.com/mazen-altabbaa"><img src="https://img.shields.io/badge/GitHub-2E7D32?style=for-the-badge&logo=github&logoColor=FFE9A8&labelColor=1B3B2F"/></a>
 
