@@ -90,8 +90,8 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mazen-al-tabbaa-1210a6275"><img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=FFE9A8&labelColor=1B3B2F"/></a>
+<a href="https://www.reddit.com/u/Hitoshi_Senpai"><img src="https://img.shields.io/badge/Reddit-C9A227?style=for-the-badge&logo=reddit&logoColor=1B3B2F&labelColor=1B3B2F"/></a>
 <a href="mailto:mazenaltabbaa366@gmail.com"><img src="https://img.shields.io/badge/Email-C9A227?style=for-the-badge&logo=gmail&logoColor=1B3B2F&labelColor=1B3B2F"/></a>
-<a href="https://github.com/mazen-altabbaa"><img src="https://img.shields.io/badge/GitHub-2E7D32?style=for-the-badge&logo=github&logoColor=FFE9A8&labelColor=1B3B2F"/></a>
 
 </div>
 
