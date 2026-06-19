@@ -80,7 +80,7 @@
 ## 🏆 Trophy Room
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mazen-altabbaa&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mazen-altabbaa&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 <br/>
