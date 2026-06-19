@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B2F,50:2E7D32,100:C9A227&height=220&section=header&text=Hitoshi&fontSize=60&fontColor=FFE9A8&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B2F,50:2E7D32,100:C9A227&height=220&section=header&text=Mazen Al-Tabbaa&fontSize=60&fontColor=FFE9A8&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=700&lines=It%27s+dangerous+to+go+alone...;Take+this%3A+%F0%9F%97%A1%EF%B8%8F+PyTorch+%2B+TensorFlow;Loading+Quest%3A+LLM+Fine-Tuning...;Vector+DB+Triforce+Unlocked" />
 
@@ -11,14 +11,15 @@
 ## 🗺️ Quest Log — About Me
 
 ```
-┌─────────────────────────────────────────────┐
-│  ▓▓ CHARACTER SHEET ▓▓                       │
-│  Class       : AI/ML Engineer                │
-│  Subclass    : Computer Vision Developer     │
-│  Side Class  : Data Scientist                 │
-│  Languages   : Python ⭐⭐⭐⭐⭐  |  R ⭐⭐⭐⭐  │
-│  Status      : Building neural dungeons      │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│   CHARACTER SHEET                        │
+├──────────────────────────────────────────┤
+│  Class      : AI/ML Engineer             │
+│  Subclass   : Computer Vision Developer  │
+│  Side Class : Data Scientist             │
+│  Languages  : Python ★★★★★ | R ★★★★      │
+│  Status     : Building neural networks   │
+└──────────────────────────────────────────┘
 ```
 
 - 🛡️ Deep diving into **Computer Vision pipelines** and **LLM fine-tuning**
