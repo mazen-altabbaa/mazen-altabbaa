@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=C9A227&background=00000000&center=true&vCenter=true&width=700&lines=Loading+Quest%3A+Computer+Vision...;Loading+Quest%3A+LLM+Fine-Tuning...;Vector+DB+Triforce+Unlocked;Press+Start+to+Continue" />
 
+<img src="https://komarev.com/ghpvc/?username=mazen-altabbaa&label=Profile%20Views&color=C9A227&style=for-the-badge&base=1000"/>
+
 </div>
 
 <br/>
