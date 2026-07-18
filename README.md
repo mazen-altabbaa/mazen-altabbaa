@@ -56,16 +56,6 @@
 
 <br/>
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mazen-altabbaa&theme=radical&hide_border=true&background=1B3B2F&ring=C9A227&fire=FFE9A8&currStreakLabel=FFE9A8" width="48%"/>
-
-</div>
-
-<br/>
-
 ## Activity Graph
 
 <div align="center">
